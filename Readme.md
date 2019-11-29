@@ -16,7 +16,9 @@
 
 Reference linkes:
 Ultimate guide to assosiations: 
+
 1. https://thoughts-on-java.org/ultimate-guide-association-mappings-jpa-hibernate/
 
 The best way to map a one to one relationship:
 2. https://vladmihalcea.com/the-best-way-to-map-a-onetoone-relationship-with-jpa-and-hibernate/
+
