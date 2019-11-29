@@ -13,3 +13,5 @@
 
 
 5. [Hibernate Composite Primary Key Example with Spring Boot and JPA](https://www.callicoder.com/hibernate-spring-boot-jpa-composite-primary-key-example/)
+
+https://thoughts-on-java.org/ultimate-guide-association-mappings-jpa-hibernate/
